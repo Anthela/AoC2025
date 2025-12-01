@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Reflection;
 
-namespace Advent_of_Code_24
+namespace Advent_of_Code_25
 {
     public static class Utils
     {

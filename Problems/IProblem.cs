@@ -1,4 +1,4 @@
-﻿namespace Advent_of_Code_24.Problems
+﻿namespace Advent_of_Code_25.Problems
 {
     public interface IProblem<T, U>
     {
